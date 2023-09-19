@@ -24,7 +24,7 @@ brew install daveshanley/vacuum/vacuum
 ## Install using [npm](https://npmjs.com)
 
 ```
-npm i -g @quobix/vacuum
+npm install -g @quobix/vacuum
 ```
 
 ## Install using [yarn](https://yarnpkg.com/)
